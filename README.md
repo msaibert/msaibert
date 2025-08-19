@@ -18,7 +18,7 @@
 
 - **Automação & Integrações**: n8n, APIs REST & SOAP  
 - **Banco de Dados**: PostgreSQL (Psql)  
-- **Linguagens & Frameworks**: Ruby, React, Arquitetura de Software  
+- **Linguagens & Frameworks**: Ruby, Vue, Arquitetura de Software  
 - **Cloud & Infraestrutura**: AWS (Lambda, Parameter Store, S3, etc.)  
 - **Ferramentas & Gestão**: ClickUp, Slack, Google Workspace  
 - **Metodologias Ágeis**: Scrum, Kanban, gestão de squads  
@@ -40,7 +40,7 @@
 ### Segfy — Especialista em Desenvolvimento de Software  
 **2010 – 2013** | Brasil  
 
-- Desenvolvimento de sistemas em **Ruby** e manutenção de módulos em **C# / .Net**.  
+- Desenvolvimento de sistemas em **Ruby**.  
 - Criação de **fluxos de integração via APIs** com seguradoras.  
 - Apoio em **projetos de arquitetura e refatoração** para garantir escalabilidade e performance.  
 
@@ -48,7 +48,7 @@
 
 ## 🎯 Objetivo Profissional
 
-Atuar em posições de **Produto** ou **Desenvolvimento Pleno/Sênior** com foco em:  
+Atuar em posições de **Produto** ou **Desenvolvimento Sênior** com foco em:  
 - Automação de processos (n8n, crawlers, scrapers).  
 - Integrações complexas via APIs.  
 - Arquitetura de software e soluções escaláveis.  
@@ -67,4 +67,4 @@ Interesse especial em **oportunidades internacionais** (remotas ou relocation), 
 
 - **LinkedIn:** [linkedin.com/in/marlonsaibert](https://linkedin.com/in/marlonsaibert)  
 - **GitHub:** [github.com/marlonsaibert](https://github.com/marlonsaibert)  
-- **E-mail:** marlon.saibert@email.com  
+- **E-mail:** marlonsaibert@gmail.com  
